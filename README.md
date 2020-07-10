@@ -23,4 +23,4 @@ Ce bot est principalement créer pour attaquer des banques d'inactifs. Cependant
 
 -Acheter l'import/export
 
-Celui qui voudra l'utiliser devra télécharger le logiciel (Super Macro)[https://www.supermacro.fr/telechargement.php] afin de redéfinir chaque fichier MRC dans le dossier "ClassesActions". Ces fichiers contiennent uniquement l'endroit où le bot devra cliquer pour chaque micro action. Cet endroit dépend de la taille de l'écran, du navigateur et des réglages du jeu.
+Celui qui voudra l'utiliser devra télécharger le logiciel [Super Macro](https://www.supermacro.fr/telechargement.php) afin de redéfinir chaque fichier MRC dans le dossier "ClassesActions". Ces fichiers contiennent uniquement l'endroit où le bot devra cliquer pour chaque micro action. Cet endroit dépend de la taille de l'écran, du navigateur et des réglages du jeu.
