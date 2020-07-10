@@ -1,0 +1,1637 @@
+Joueur : Mr pipou
+[4:324:7]
+Flottes et défenses : false
+
+Joueur : Zekemaz
+[4:324:5]
+Flottes et défenses : false
+
+Joueur : Mr pipou
+[4:324:4]
+Flottes et défenses : false
+
+Joueur : Zekemaz
+[4:324:12]
+Flottes et défenses : false
+
+Joueur : Zekemaz
+[4:324:3]
+Flottes et défenses : false
+
+Joueur : Zekemaz
+[4:324:2]
+Flottes et défenses : true Nul
+
+Joueur : Eyesandberg
+[4:323:6]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:323:5]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:323:4]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:323:13]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:323:3]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:323:2]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:324:15]
+Flottes et défenses : false
+
+Joueur : Eyesandberg
+[4:319:1]
+Flottes et défenses : false
+
+Joueur : Alamma
+[4:316:12]
+Flottes et défenses : false
+
+Joueur : duality
+[4:313:4]
+Flottes et défenses : false
+
+Joueur : Madara
+[4:5:5]
+Flottes et défenses : false
+
+Joueur : Madara
+[4:5:6]
+Flottes et défenses : false
+
+Joueur : Madara
+[4:5:7]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:5]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:9]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:10]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:11]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:12]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:13]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:15]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:18:9]
+Flottes et défenses : false
+
+Joueur : x
+[4:48:7]
+Flottes et défenses : false
+  
+Joueur : x
+[4:49:4]
+Flottes et défenses : false
+
+Joueur : x
+[4:49:8]
+Flottes et défenses : false
+
+Joueur : x
+[4:49:9]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:5]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:6]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:9]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:11]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:186:10]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:179:15]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:175:11]
+Flottes et défenses : true def
+
+Joueur : Consul Eris
+[4:200:6]
+Flottes et défenses : false
+
+Joueur : Aspirine
+[4:264:10]
+Flottes et défenses : false
+
+Joueur : Letchu
+[4:265:7]
+Flottes et défenses : false
+
+Joueur : Grostuff
+[4:266:9]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:6]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:10]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:14]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:247:6]
+Flottes et défenses : false
+
+Joueur : Admiral Owl
+[4:268:6]
+Flottes et défenses : true def
+
+Joueur : Lhyrae Night
+[4:292:7]
+Flottes et défenses : true def
+
+Joueur : Lhyrae Night
+[4:292:11]
+Flottes et défenses : true def
+
+Joueur : Jokev
+[4:309:8]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:7]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:1]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:8]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:15]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:309:6]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:309:9]
+Flottes et défenses : false
+
+Joueur : stop
+[4:305:7]
+Flottes et défenses : false
+
+Joueur : stop
+[4:305:6]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:13]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:6]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:5]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:4]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:3]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:2]
+Flottes et défenses : false
+
+Joueur : Admiral Polaris
+[4:293:8]
+Flottes et défenses : false
+
+Joueur : Technocrat Sedna
+[4:294:7]
+Flottes et défenses : true 14M def
+
+Joueur : Consul Uranus
+[4:305:11]
+Flottes et défenses : false
+
+Joueur : Lord Santeix
+[4:302:9]
+Flottes et défenses : false
+
+Joueur : Gorsedd ar Gwedel
+[4:299:10]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:295:6]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:283:6]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:283:4]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:286:8]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:328:6]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:311:11]
+Flottes et défenses : false
+
+Joueur : Bandit Thrust
+[4:312:3]
+Flottes et défenses : false
+
+Joueur : SH4RK
+[4:312:8]
+Flottes et défenses : false
+
+Joueur : Admiral Owl
+[4:312:7]
+Flottes et défenses : true mini
+
+Joueur : Admiral Owl
+[4:314:12]
+Flottes et défenses : true 28M def
+
+Joueur : Admiral Owl
+[4:288:7]
+Flottes et défenses : true 4M def
+
+Joueur : Admiral Owl
+[4:289:6]
+Flottes et défenses : true 4M def
+
+Joueur : PaddleGriver
+[4:362:3]
+Flottes et défenses : false
+
+Joueur : PaddleGriver
+[4:362:4]
+Flottes et défenses : false
+
+Joueur : PaddleGriver
+[4:362:5]
+Flottes et défenses : false
+
+Joueur : Le Farfadet
+[4:360:9]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:360:5]
+Flottes et défenses : false
+
+Joueur : Admiral Owl
+[4:349:5]
+Flottes et défenses : true 4M def
+
+
+Joueur : neo
+[4:63:8]
+Flottes et défenses : false
+
+Joueur : Lord deduchka
+[4:63:5]
+Flottes et défenses : false
+
+Joueur :  REBEL FLO
+[4:61:8]
+Flottes et défenses : true Flottes: 0 Défense: 4M
+
+Joueur :  REBEL FLO
+[4:61:7]
+Flottes et défenses : false
+
+Joueur :  REBEL FLO
+[4:61:6]
+Flottes et défenses : true Flottes: 2 77.500Défense: 11,457M
+
+Joueur :  REBEL FLO
+[4:61:5]
+Flottes et défenses : false
+
+Joueur :  REBEL FLO
+[4:61:4]
+Flottes et défenses : false
+
+Joueur :  REBEL FLO
+[4:61:3]
+Flottes et défenses : false
+
+Joueur : Stadtholder Eridanus
+[4:59:5]
+Flottes et défenses : false
+
+Joueur :  Bonisseur de la Bath
+[4:249:9]
+Flottes et défenses : false
+
+Joueur :  Felinition
+[4:56:9]
+Flottes et défenses : false
+
+Joueur :  Bonisseur de la Bath
+[4:54:9]
+Flottes et défenses : false
+
+Joueur : Arcmonosse
+[4:52:8]
+Flottes et défenses : true Flottes: 9 ,620MDéfense: 26,12M
+
+Joueur : Emperor Star
+[4:52:12]
+Flottes et défenses : true Flottes: 0 Défense: 30.000
+
+Joueur : Arcmonosse
+[4:52:15]
+Flottes et défenses : true Flottes: 1 ,61MDéfense: 13,349M
+
+Joueur : Arcmonosse
+[4:52:7]
+Flottes et défenses : true Flottes: 5 ,355MDéfense: 20,754M
+
+Joueur : Arcmonosse
+[4:52:5]
+Flottes et défenses : true Flottes: 0 Défense: 2,414M
+
+Joueur : Stadtholder Eridanus
+[4:51:10]
+Flottes et défenses : false
+
+Joueur : Demaistos
+[4:51:8]
+Flottes et défenses : false
+
+Joueur : Chancellor Pavo
+[4:51:5]
+Flottes et défenses : false
+
+Joueur : PoneyMalefik
+[4:50:4]
+Flottes et défenses : false
+
+Joueur : Arcmonosse
+[4:49:10]
+Flottes et défenses : true Flottes: 4 ,63MDéfense: 21,21M
+
+Joueur : Redevile
+[4:49:7]
+Flottes et défenses : false
+
+Joueur : Redevile
+[4:49:5]
+Flottes et défenses : false
+
+Joueur : Stadtholder Eridanus
+[4:40:9]
+Flottes et défenses : false
+
+Joueur : ROULS
+[4:40:6]
+Flottes et défenses : false
+
+Joueur : Stadtholder Eridanus
+[4:40:1]
+Flottes et défenses : true Nul
+
+Joueur : ROULS
+[4:39:5]
+Flottes et défenses : false
+
+Joueur : ROULS
+[4:36:11]
+Flottes et défenses : false
+
+Joueur : ROULS
+[4:36:10]
+Flottes et défenses : false
+
+Joueur : General Syeek
+[4:34:10]
+Flottes et défenses : false
+
+Joueur : General Syeek
+[4:34:8]
+Flottes et défenses : false
+
+Joueur : General Syeek
+[4:34:5]
+Flottes et défenses : false
+
+Joueur : General Syeek
+[4:34:4]
+Flottes et défenses : false
+
+Joueur : Lieutenant Ara
+[4:33:13]
+Flottes et défenses : true Flottes: 8 68.000Défense: 26,216M
+
+Joueur : Lieutenant Ara
+[4:33:12]
+Flottes et défenses : true Flottes: 0 Défense: 33,333M
+
+Joueur : Mickey
+[4:30:1]
+Flottes et défenses : false
+
+Joueur : Mickey
+[4:30:15]
+Flottes et défenses : false
+
+Joueur : Vicard
+[4:29:8]
+Flottes et défenses : false
+
+Joueur : Stadtholder Eridanus
+[4:28:6]
+Flottes et défenses : false
+
+Joueur : Dimat
+[4:28:5]
+Flottes et défenses : false
+
+Joueur : Dimat
+[4:27:12]
+Flottes et défenses : false
+
+Joueur :  Bloodycreed
+[4:27:9]
+Flottes et défenses : false
+
+Joueur : Sovereign Quasar
+[4:27:8]
+Flottes et défenses : true Nul
+
+Joueur : Sovereign Quasar
+[4:27:7]
+Flottes et défenses : false
+
+Joueur : Sovereign Quasar
+[4:27:6]
+Flottes et défenses : false
+
+Joueur : Sovereign Quasar
+[4:27:5]
+Flottes et défenses : false
+
+Joueur : Kraptonia
+[4:26:10]
+Flottes et défenses : false
+
+Joueur : LordPonchon
+[4:24:9]
+Flottes et défenses : false
+
+Joueur : LordPonchon
+[4:22:1]
+Flottes et défenses : false
+
+Joueur : LordPonchon
+[4:22:12]
+Flottes et défenses : false
+
+Joueur : LordPonchon
+[4:21:10]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:21:6]
+Flottes et défenses : false
+
+Joueur : Jhanus
+[4:18:6]
+Flottes et défenses : false
+
+Joueur : Jhanus
+[4:18:5]
+Flottes et défenses : false
+
+Joueur : Jhanus
+[4:16:11]
+Flottes et défenses : false
+
+Joueur : Commodore Leo
+[4:16:4]
+Flottes et défenses : false
+
+Joueur : Commodore Leo
+[4:16:3]
+Flottes et défenses : false
+
+Joueur :  Bloodycreed
+[4:14:13]
+Flottes et défenses : true Flottes: 0 Défense: 11,734M
+
+Joueur : crocrops
+[4:14:10]
+Flottes et défenses : false
+
+Joueur :  Bloodycreed
+[4:14:8]
+Flottes et défenses : false
+
+Joueur :  Bloodycreed
+[4:14:6]
+Flottes et défenses : true Flottes: 0 Défense: 21,735M
+
+Joueur :  Bloodycreed
+[4:12:10]
+Flottes et défenses : false
+
+Joueur : crocrops
+[4:11:10]
+Flottes et défenses : false
+
+Joueur : crocrops
+[4:10:6]
+Flottes et défenses : false
+
+Joueur : Lieutenant Ara
+[4:9:8]
+Flottes et défenses : false
+
+Joueur : Lieutenant Ara
+[4:9:7]
+Flottes et défenses : true Flottes: 0 Défense: 2,108M
+
+Joueur : crocrops
+[4:9:6]
+Flottes et défenses : false
+
+Joueur : crocrops
+[4:8:12]
+Flottes et défenses : false
+
+Joueur : crocrops
+[4:8:11]
+Flottes et défenses : false
+
+Joueur : Zoro77
+[4:7:4]
+Flottes et défenses : false
+
+Joueur : Zoro77
+[4:7:5]
+Flottes et défenses : false
+
+Joueur : Zoro77
+[4:7:9]
+Flottes et défenses : false
+
+Joueur : Hitanax
+[4:5:10]
+Flottes et défenses : true Flottes: 1 ,378MDéfense: 1,104M
+
+Joueur :  Ovan
+[4:4:4]
+Flottes et défenses : false
+
+Joueur :  Ovan
+[4:3:7]
+Flottes et défenses : false
+
+Joueur :  Ovan
+[4:3:5]
+Flottes et défenses : false
+
+Joueur : Chabrack
+[4:2:6]
+Flottes et défenses : false
+
+Joueur :  Ovan
+[4:2:5]
+Flottes et défenses : false
+
+Joueur :  Ovan
+[4:2:4]
+Flottes et défenses : false
+
+Joueur : Barman
+[4:1:8]
+Flottes et défenses : false
+
+Joueur :  Ovan
+[4:1:5]
+Flottes et défenses : false
+
+Joueur : Hitanax
+[4:1:4]
+Flottes et défenses : true Flottes: 4 ,001MDéfense: 7,622M
+
+Joueur : Admiral Gamma
+[4:145:6]
+Flottes et défenses : false
+
+Joueur : Stadtholder Viking
+[4:143:5]
+Flottes et défenses : true Flottes: 0 Défense: 30,269M
+
+Joueur : Kraptonia
+[4:142:12]
+Flottes et défenses : false
+
+Joueur : Constable Saros
+[4:141:5]
+Flottes et défenses : false
+
+Joueur : Chancellor Leda
+[4:139:13]
+Flottes et défenses : false
+
+Joueur : crackenrs
+[4:137:12]
+Flottes et défenses : false
+
+Joueur : Commodore Epsilon
+[4:136:8]
+Flottes et défenses : false
+
+Joueur : Kraptonia
+[4:136:4]
+Flottes et défenses : false
+
+Joueur : Titcha
+[4:134:14]
+Flottes et défenses : false
+
+Joueur : Titcha
+[4:134:13]
+Flottes et défenses : false
+
+Joueur : Titcha
+[4:134:12]
+Flottes et défenses : false
+
+Joueur : Commodore Epsilon
+[4:134:9]
+Flottes et défenses : false
+
+Joueur :  Sherco
+[4:134:5]
+Flottes et défenses : false
+
+Joueur : President Twighlight
+[4:133:5]
+Flottes et défenses : true Flottes: 0 Défense: 10,502M
+
+Joueur : Titcha
+[4:132:11]
+Flottes et défenses : false
+
+Joueur :  Sherco
+[4:132:14]
+Flottes et défenses : false
+
+Joueur :  Sherco
+[4:132:6]
+Flottes et défenses : false
+
+Joueur :  Sherco
+[4:132:1]
+Flottes et défenses : false
+
+Joueur : Titcha
+[4:131:12]
+Flottes et défenses : false
+
+Joueur : crackenrs
+[4:130:12]
+Flottes et défenses : false
+
+Joueur : AlexSpecter
+[4:130:4]
+Flottes et défenses : true Flottes: 6 5.000Défense: 25,61M
+
+Joueur : Marshal Neutron
+[4:128:11]
+Flottes et défenses : false
+
+Joueur : AlexSpecter
+[4:128:4]
+Flottes et défenses : true Flottes: 9 10.000Défense: 26,28M
+
+Joueur : AlexSpecter
+[4:127:4]
+Flottes et défenses : true Flottes: 0 Défense: 17,646M
+
+Joueur : AlexSpecter
+[4:127:3]
+Flottes et défenses : true Nul
+
+Joueur : Space Ghost Purp
+[4:125:4]
+Flottes et défenses : false
+
+Joueur : Consul Stingray
+[4:120:5]
+Flottes et défenses : false
+
+Joueur : Darlbossa X
+[4:119:6]
+Flottes et défenses : false
+
+Joueur : Darlbossa X
+[4:119:5]
+Flottes et défenses : true Flottes: 0 Défense: 39,453M
+
+Joueur : Epsilon Church
+[4:117:14]
+Flottes et défenses : false
+
+Joueur : Epsilon Church
+[4:117:13]
+Flottes et défenses : false
+
+Joueur : Epsilon Church
+[4:117:12]
+Flottes et défenses : false
+
+Joueur : Epsilon Church
+[4:117:11]
+Flottes et défenses : false
+
+Joueur : Epsilon Church
+[4:117:10]
+Flottes et défenses : true Nul
+
+Joueur : Elchibro
+[4:109:14]
+Flottes et défenses : false
+
+Joueur : Elchibro
+[4:109:5]
+Flottes et défenses : false
+
+Joueur : Elchibro
+[4:109:4]
+Flottes et défenses : false
+
+Joueur : Space Ghost Purp
+[4:105:6]
+Flottes et défenses : false
+
+Joueur : Ligneur Pro
+[4:104:5]
+Flottes et défenses : false
+
+Joueur : Ligneur Pro
+[4:104:6]
+Flottes et défenses : false
+
+Joueur : Chancellor Leda
+[4:104:12]
+Flottes et défenses : false
+
+Joueur : Chancellor Leda
+[4:103:6]
+Flottes et défenses : false
+
+Joueur : Chancellor Leda
+[4:103:5]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:102:3]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:102:5]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:102:11]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:102:9]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:99:11]
+Flottes et défenses : false
+
+Joueur : Freezer
+[4:99:10]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:99:9]
+Flottes et défenses : false
+
+Joueur :  Nyoho
+[4:99:5]
+Flottes et défenses : false
+
+Joueur : Dimat
+[4:94:6]
+Flottes et défenses : false
+
+Joueur : jeremy
+[4:94:5]
+Flottes et défenses : false
+
+Joueur : jeremy
+[4:94:4]
+Flottes et défenses : false
+
+Joueur : Cpt Kaastor IronRam
+[4:85:4]
+Flottes et défenses : false
+
+Joueur : Mortecouille
+[4:77:6]
+Flottes et défenses : false
+
+Joueur : Mortecouille
+[4:77:5]
+Flottes et défenses : false
+
+Joueur : Mortecouille
+[4:77:4]
+Flottes et défenses : false
+
+Joueur : Mortecouille
+[4:77:3]
+Flottes et défenses : false
+
+Joueur : Arlos 1er
+[4:72:9]
+Flottes et défenses : false
+
+Joueur : Arlos 1er
+[4:72:10]
+Flottes et défenses : false
+
+Joueur : neo
+[4:71:8]
+Flottes et défenses : false
+
+Joueur : Bobystar
+[4:390:5]
+Flottes et défenses : true Flottes: 0 Défense: 1,604M
+
+Joueur : Nogare
+[4:389:14]
+Flottes et défenses : false
+
+Joueur : Nogare
+[4:389:8]
+Flottes et défenses : false
+
+Joueur : rigolototo
+[4:389:5]
+Flottes et défenses : false
+
+Joueur : rigolototo
+[4:389:4]
+Flottes et défenses : true Flottes: 4 3,282MDéfense: 14,97M
+
+Joueur : Nogare
+[4:389:1]
+Flottes et défenses : false
+
+Joueur : anthony69fr
+[4:387:8]
+Flottes et défenses : false
+
+Joueur : Commodore Probe
+[4:382:12]
+Flottes et défenses : false
+
+Joueur : Commodore Probe
+[4:382:11]
+Flottes et défenses : false
+
+Joueur : Commodore Probe
+[4:382:10]
+Flottes et défenses : false
+
+Joueur : UnDay
+[4:378:14]
+Flottes et défenses : false
+
+Joueur : Cbauland
+[4:378:7]
+Flottes et défenses : true Flottes: 2 78.000Défense: 4,731M
+
+Joueur : UnDay
+[4:378:5]
+Flottes et défenses : false
+
+Joueur : UnDay
+[4:376:12]
+Flottes et défenses : false
+
+Joueur : Seigneur Capel
+[4:368:6]
+Flottes et défenses : false
+
+Joueur : Clyde
+[4:367:8]
+Flottes et défenses : true Flottes: 4 8.000Défense: 10,414M
+
+Joueur : Maekoo
+[4:366:7]
+Flottes et défenses : true Flottes: 0 Défense: 39,521M
+
+Joueur : Ludo68
+[4:366:6]
+Flottes et défenses : false
+
+Joueur : Bobystar
+[4:365:5]
+Flottes et défenses : true Flottes: 4 82.500Défense: 3,85M
+
+Joueur : Maekoo
+[4:361:9]
+Flottes et défenses : true Flottes: 0 Défense: 10,77M
+
+Joueur : Aspirine
+[4:361:8]
+Flottes et défenses : false
+
+Joueur : Pel
+[4:358:11]
+Flottes et défenses : true Flottes: 0 Défense: 1,213M
+
+Joueur : Draguiro
+[4:358:5]
+Flottes et défenses : false
+
+Joueur : Pel
+[4:356:6]
+Flottes et défenses : true Flottes: 0 Défense: 16,026M
+
+Joueur : sudobaal
+[4:356:10]
+Flottes et défenses : false
+
+Joueur : Valentoche3000
+[4:355:5]
+Flottes et défenses : true Flottes: 0 Défense: 5,314M
+
+Joueur : Valentoche3000
+[4:355:7]
+Flottes et défenses : true Flottes: 0 Défense: 3,993M
+
+Joueur : Valentoche3000
+[4:355:9]
+Flottes et défenses : false
+
+Joueur : Valentoche3000
+[4:355:11]
+Flottes et défenses : false
+
+Joueur : Valentoche3000
+[4:355:12]
+Flottes et défenses : false
+
+Joueur : Pel
+[4:354:10]
+Flottes et défenses : false
+
+Joueur : Pel
+[4:353:15]
+Flottes et défenses : false
+
+Joueur : Pel
+[4:353:11]
+Flottes et défenses : false
+
+Joueur : Tomchy13
+[4:353:9]
+Flottes et défenses : false
+
+Joueur : Clyde
+[4:350:11]
+Flottes et défenses : true Flottes: 0 Défense: 2,559M
+
+Joueur : Izenah
+[4:349:2]
+Flottes et défenses : false
+
+Joueur : OtterHunterr
+[4:347:13]
+Flottes et défenses : true Nul
+
+Joueur : OtterHunterr
+[4:347:11]
+Flottes et défenses : false
+
+Joueur : OtterHunterr
+[4:347:7]
+Flottes et défenses : false
+
+Joueur : OtterHunterr
+[4:347:6]
+Flottes et défenses : false
+
+Joueur : OtterHunterr
+[4:347:5]
+Flottes et défenses : false
+
+Joueur : OtterHunterr
+[4:347:4]
+Flottes et défenses : false
+
+Joueur : OtterHunterr
+[4:347:1]
+Flottes et défenses : false
+
+Joueur : Cbauland
+[4:346:11]
+Flottes et défenses : true Flottes: 1 ,162MDéfense: 7,221M
+
+Joueur : Constable Phoenix
+[4:346:10]
+Flottes et défenses : true Flottes: 0 Défense: 14,256M
+
+Joueur : Chancellor Midas
+[4:337:13]
+Flottes et défenses : false
+
+Joueur : Chancellor Midas
+[4:336:12]
+Flottes et défenses : false
+
+Joueur : Chancellor Midas
+[4:334:12]
+Flottes et défenses : false
+
+Joueur : Chancellor Midas
+[4:334:11]
+Flottes et défenses : false
+
+Joueur : Constable Phoenix
+[4:334:10]
+Flottes et défenses : true Flottes: 0 Défense: 6,206M
+
+Joueur : jaspart
+[4:332:8]
+Flottes et défenses : true Flottes: 0 Défense: 23,016M
+
+Joueur : Izenah
+[4:332:5]
+Flottes et défenses : false
+
+Joueur : Izenah
+[4:332:4]
+Flottes et défenses : false
+
+Joueur : Izenah
+[4:332:3]
+Flottes et défenses : false
+
+Joueur : Himegalio
+[4:330:11]
+Flottes et défenses : true Nul
+
+Joueur : Himegalio
+[4:329:6]
+Flottes et défenses : true Flottes: 1 .000Défense: 2,22M
+
+Joueur : PsyBaph
+[4:328:10]
+Flottes et défenses : false
+
+Joueur : Himegalio
+[4:327:12]
+Flottes et défenses : true Flottes: 0 Défense: 13,136M
+
+Joueur : PsyBaph
+[4:326:11]
+Flottes et défenses : false
+
+Joueur : Technocrat Centauri
+[4:294:10]
+Flottes et défenses : false
+
+Joueur : Lax
+[4:291:9]
+Flottes et défenses : false
+
+Joueur : Admiral Polaris
+[4:291:6]
+Flottes et défenses : false
+
+Joueur : Admiral Polaris
+[4:291:5]
+Flottes et défenses : false
+
+Joueur : Dclic
+[4:290:10]
+Flottes et défenses : true Flottes: 0 Défense: 1,949M
+
+Joueur : Dclic
+[4:290:9]
+Flottes et défenses : false
+
+Joueur : Dclic
+[4:290:8]
+Flottes et défenses : false
+
+Joueur : Admiral Polaris
+[4:290:4]
+Flottes et défenses : true Nul
+
+Joueur : Titi
+[4:288:5]
+Flottes et défenses : true Nul
+
+Joueur : Alamma
+[4:287:6]
+Flottes et défenses : false
+
+Joueur : Speed
+[4:282:6]
+Flottes et défenses : true Flottes: 4 0.000Défense: 15,005M
+
+Joueur : Alamma
+[4:280:9]
+Flottes et défenses : false
+
+Joueur : Cartman
+[4:280:8]
+Flottes et défenses : false
+
+Joueur : Deadalucard
+[4:280:6]
+Flottes et défenses : false
+
+Joueur : Stadtholder Viking
+[4:278:12]
+Flottes et défenses : true Flottes: 2 4,607MDéfense: 35,99M
+
+Joueur :  Shinigami
+[4:275:5]
+Flottes et défenses : false
+
+Joueur :  Shinigami
+[4:275:7]
+Flottes et défenses : false
+
+Joueur :  Shinigami
+[4:274:14]
+Flottes et défenses : false
+
+Joueur :  Shinigami
+[4:274:6]
+Flottes et défenses : false
+
+Joueur :  Shinigami
+[4:274:3]
+Flottes et défenses : false
+
+Joueur :  Shinigami
+[4:274:1]
+Flottes et défenses : false
+
+Joueur :  Shinigami
+[4:273:11]
+Flottes et défenses : false
+
+Joueur : Nic
+[4:272:3]
+Flottes et défenses : false
+
+Joueur : Nic
+[4:272:12]
+Flottes et défenses : false
+
+Joueur : Nic
+[4:272:11]
+Flottes et défenses : false
+
+Joueur : Nic
+[4:271:5]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:12]
+Flottes et défenses : true Flottes: 2 2,466MDéfense: 149,208M
+
+Joueur : Gon2Kirua
+[4:257:14]
+Flottes et défenses : true Flottes: 0 Défense: 5,596M
+
+Joueur : Gon2Kirua
+[4:255:12]
+Flottes et défenses : false
+
+Joueur : Dieyz
+[4:252:15]
+Flottes et défenses : false
+
+Joueur : Dieyz
+[4:252:14]
+Flottes et défenses : false
+
+Joueur : Dieyz
+[4:252:13]
+Flottes et défenses : false
+
+Joueur : Dieyz
+[4:252:12]
+Flottes et défenses : false
+
+Joueur : Shivalesca
+[4:252:11]
+Flottes et défenses : false
+
+Joueur : Dieyz
+[4:252:7]
+Flottes et défenses : false
+
+Joueur : Dieyz
+[4:252:3]
+Flottes et défenses : false
+
+Joueur : Mitzrael
+[4:248:8]
+Flottes et défenses : true Flottes: 1 50.000Défense: 82,22M
+
+Joueur : Alamma
+[4:248:6]
+Flottes et défenses : false
+
+Joueur : Mitzrael
+[4:247:10]
+Flottes et défenses : true Flottes: 2 40.000Défense: 1,046M
+
+Joueur : Mitzrael
+[4:247:9]
+Flottes et défenses : true Flottes: 1 00.000Défense: 11,39M
+
+Joueur : Mitzrael
+[4:247:8]
+Flottes et défenses : true Flottes: 2 50.000Défense: 94,522M
+
+Joueur : Mitzrael
+[4:247:1]
+Flottes et défenses : true Flottes: 5 80.000Défense: 6,065M
+
+Joueur : Knkr
+[4:242:10]
+Flottes et défenses : false
+
+Joueur : Knkr
+[4:241:10]
+Flottes et défenses : true Nul
+
+Joueur : Knkr
+[4:241:9]
+Flottes et défenses : true Flottes: 0 Défense: 3,817M
+
+Joueur : Knkr
+[4:241:8]
+Flottes et défenses : true Flottes: 0 Défense: 1,77M
+
+Joueur : Knkr
+[4:241:7]
+Flottes et défenses : true Flottes: 0 Défense: 1,651M
+
+Joueur : Knkr
+[4:241:1]
+Flottes et défenses : false
+
+Joueur : Kraptonia
+[4:240:9]
+Flottes et défenses : true Nul
+
+Joueur : zahef57
+[4:237:10]
+Flottes et défenses : false
+
+Joueur : Knkr
+[4:235:6]
+Flottes et défenses : true Flottes: 1 ,525MDéfense: 8,497M
+
+Joueur : halo71
+[4:229:7]
+Flottes et défenses : false
+
+Joueur : Knkr
+[4:229:8]
+Flottes et défenses : false
+
+Joueur : halo71
+[4:228:7]
+Flottes et défenses : false
+
+Joueur : halo71
+[4:226:12]
+Flottes et défenses : false
+
+Joueur : Jon
+[4:226:8]
+Flottes et défenses : false
+
+Joueur : Msl13
+[4:224:7]
+Flottes et défenses : false
+
+Joueur : Msl13
+[4:224:8]
+Flottes et défenses : false
+
+Joueur : Msl13
+[4:224:15]
+Flottes et défenses : false
+
+Joueur : Lord Loki
+[4:215:5]
+Flottes et défenses : true Flottes: 0 Défense: 30,578M
+
+Joueur : Lord Loki
+[4:215:6]
+Flottes et défenses : false
+
+Joueur : Commander Metis
+[4:215:4]
+Flottes et défenses : false
+
+Joueur : halo71
+[4:212:7]
+Flottes et défenses : false
+
+Joueur : Stadtholder Viking
+[4:210:12]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:210:7]
+Flottes et défenses : false
+
+Joueur :  Ripper Cherche Ally
+[4:208:14]
+Flottes et défenses : false
+
+Joueur : Space Ghost Purp
+[4:206:7]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:15]
+Flottes et défenses : true Nul
+
+Joueur : Emperor Callisto
+[4:205:13]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:12]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:11]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:10]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:7]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:5]
+Flottes et défenses : false
+
+Joueur : Emperor Callisto
+[4:205:3]
+Flottes et défenses : false
+
+Joueur : Lord Santeix
+[4:203:8]
+Flottes et défenses : false
+
+Joueur : Moe lester
+[4:194:12]
+Flottes et défenses : false
+
+Joueur : Snowman
+[4:192:6]
+Flottes et défenses : false
+
+Joueur : Kraptonia
+[4:188:10]
+Flottes et défenses : false
+
+Joueur : Gandalf
+[4:186:11]
+Flottes et défenses : false
+
+Joueur :  Descente du Gradient
+[4:183:8]
+Flottes et défenses : false
+
+Joueur : Pres Stevie G
+[4:181:3]
+Flottes et défenses : false
+
+Joueur : Pres Stevie G
+[4:180:12]
+Flottes et défenses : false
+
+Joueur : Pres Stevie G
+[4:180:11]
+Flottes et défenses : false
+
+Joueur : Pres Stevie G
+[4:179:11]
+Flottes et défenses : false
+
+Joueur : thgame
+[4:179:14]
+Flottes et défenses : false
+
+Joueur : thgame
+[4:179:8]
+Flottes et défenses : false
+
+Joueur : thgame
+[4:179:7]
+Flottes et défenses : false
+
+Joueur : gardav
+[4:177:10]
+Flottes et défenses : false
+
+Joueur : Procurator Nova
+[4:177:7]
+Flottes et défenses : false
+
+Joueur :  COCAHINA
+[4:172:12]
+Flottes et défenses : true Flottes: 7 ,343MDéfense: 147,211M
+
+Joueur :  Sherco
+[4:172:9]
+Flottes et défenses : false
+
+Joueur :  OrLorD777
+[4:172:6]
+Flottes et défenses : false
+
+Joueur :  COCAHINA
+[4:172:5]
+Flottes et défenses : false
+
+Joueur :  OrLorD777
+[4:172:3]
+Flottes et défenses : false
+
+Joueur :  COCAHINA
+[4:172:1]
+Flottes et défenses : false
+
+Joueur : Gandalf
+[4:171:5]
+Flottes et défenses : true Flottes: 1 ,285MDéfense: 18,62M
+
+Joueur :  COCAHINA
+[4:168:15]
+Flottes et défenses : false
+
+Joueur :  mange
+[4:165:9]
+Flottes et défenses : false
+
+Joueur :  mange
+[4:165:7]
+Flottes et défenses : false
+
+Joueur :  Sherco
+[4:164:6]
+Flottes et défenses : false
+
+Joueur : Technocrat Rigel
+[4:163:13]
+Flottes et défenses : false
+
+Joueur : Marshall D Teach
+[4:160:5]
+Flottes et défenses : false
+
+Joueur : Commodore Epsilon
+[4:160:9]
+Flottes et défenses : false
+
+Joueur : Chabrack
+[4:159:12]
+Flottes et défenses : false
+
+Joueur :  mange
+[4:158:8]
+Flottes et défenses : false
+
+Joueur :  mange
+[4:158:5]
+Flottes et défenses : false
+
+Joueur :  OrLorD777
+[4:157:10]
+Flottes et défenses : false
+
+Joueur :  mange
+[4:157:7]
+Flottes et défenses : true Flottes: 0 Défense: 176,232M
+
+Joueur :  mange
+[4:157:6]
+Flottes et défenses : false
+
+Joueur : Sil Afian
+[4:155:6]
+Flottes et défenses : false
+
+Joueur : Sil Afian
+[4:155:1]
+Flottes et défenses : false
+
+Joueur :  Sherco
+[4:154:7]
+Flottes et défenses : false
+
+Joueur :  COCAHINA
+[4:154:9]
+Flottes et défenses : false
+
+Joueur :  COCAHINA
+[4:154:13]
+Flottes et défenses : false
+
+Joueur :  OrLorD777
+[4:154:14]
+Flottes et défenses : false
+
+Joueur :  OrLorD777
+[4:154:6]
+Flottes et défenses : false
+
+Joueur :  OrLorD777
+[4:154:1]
+Flottes et défenses : false
+

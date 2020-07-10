@@ -1,0 +1,347 @@
+Joueur : Mr pipou
+[4:324:7]
+Flottes et défenses : false 
+
+Joueur : Zekemaz
+[4:324:5]
+Flottes et défenses : false 
+
+Joueur : Mr pipou
+[4:324:4]
+Flottes et défenses : false 
+
+Joueur : Zekemaz
+[4:324:12]
+Flottes et défenses : false 
+
+Joueur : Zekemaz
+[4:324:3]
+Flottes et défenses : false 
+
+Joueur : Zekemaz
+[4:324:2]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:323:6]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:323:5]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:323:4]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:323:13]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:323:3]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:323:2]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:324:15]
+Flottes et défenses : false 
+
+Joueur : Eyesandberg
+[4:319:1]
+Flottes et défenses : false 
+
+Joueur : Alamma
+[4:316:12]
+Flottes et défenses : false 
+
+Joueur : duality
+[4:313:4]
+Flottes et défenses : true Flottes: 0 Défense: 3,562M
+
+Joueur : Madara
+[4:5:5]
+Flottes et défenses : false
+
+Joueur : Madara
+[4:5:6]
+Flottes et défenses : false
+
+Joueur : Madara
+[4:5:7]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:5]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:9]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:10]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:11]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:12]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:13]
+Flottes et défenses : false
+
+Joueur : Und3r
+[4:13:15]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:18:9]
+Flottes et défenses : false
+
+Joueur : x
+[4:48:7]
+Flottes et défenses : false
+  
+Joueur : x
+[4:49:4]
+Flottes et défenses : false
+
+Joueur : x
+[4:49:8]
+Flottes et défenses : false
+
+Joueur : x
+[4:49:9]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:5]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:6]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:9]
+Flottes et défenses : false
+
+Joueur : x
+[4:130:11]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:186:10]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:179:15]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:175:11]
+Flottes et défenses : true def
+
+Joueur : Consul Eris
+[4:200:6]
+Flottes et défenses : false
+
+Joueur : Aspirine
+[4:264:10]
+Flottes et défenses : false
+
+Joueur : Letchu
+[4:265:7]
+Flottes et défenses : false
+
+Joueur : Grostuff
+[4:266:9]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:6]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:10]
+Flottes et défenses : false
+
+Joueur : Finnick Odair
+[4:263:14]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:247:6]
+Flottes et défenses : false
+
+Joueur : Admiral Owl
+[4:268:6]
+Flottes et défenses : true def
+
+Joueur : Lhyrae Night
+[4:292:7]
+Flottes et défenses : true def
+
+Joueur : Lhyrae Night
+[4:292:11]
+Flottes et défenses : true def
+
+Joueur : Jokev
+[4:309:8]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:7]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:1]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:8]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:308:15]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:309:6]
+Flottes et défenses : false
+
+Joueur : Jokev
+[4:309:13]
+Flottes et défenses : false
+
+Joueur : stop
+[4:305:7]
+Flottes et défenses : false
+
+Joueur : stop
+[4:305:6]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:13]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:6]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:5]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:4]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:3]
+Flottes et défenses : false
+
+Joueur : Tczatciki
+[4:308:2]
+Flottes et défenses : false
+
+Joueur : Admiral Polaris
+[4:293:8]
+Flottes et défenses : false
+
+Joueur : Technocrat Sedna
+[4:294:7]
+Flottes et défenses : true 14M def
+
+Joueur : Consul Uranus
+[4:305:11]
+Flottes et défenses : false
+
+Joueur : Lord Santeix
+[4:302:9]
+Flottes et défenses : false
+
+Joueur : Gorsedd ar Gwedel
+[4:299:10]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:295:6]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:283:6]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:283:4]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:286:8]
+Flottes et défenses : false
+
+Joueur : Consul Eris
+[4:328:6]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:311:11]
+Flottes et défenses : false
+
+Joueur : Bandit Thrust
+[4:312:3]
+Flottes et défenses : false
+
+Joueur : SH4RK
+[4:312:8]
+Flottes et défenses : false
+
+Joueur : Admiral Owl
+[4:312:7]
+Flottes et défenses : true mini
+
+Joueur : Admiral Owl
+[4:314:12]
+Flottes et défenses : true 28M def
+
+Joueur : Admiral Owl
+[4:288:7]
+Flottes et défenses : true 4M def
+
+Joueur : Admiral Owl
+[4:289:6]
+Flottes et défenses : true 4M def
+
+Joueur : PaddleGriver
+[4:362:3]
+Flottes et défenses : false
+
+Joueur : PaddleGriver
+[4:362:4]
+Flottes et défenses : false
+
+Joueur : PaddleGriver
+[4:362:5]
+Flottes et défenses : false
+
+Joueur : Le Farfadet
+[4:360:9]
+Flottes et défenses : false
+
+Joueur : Jagermeister
+[4:360:5]
+Flottes et défenses : false
+
+Joueur : Admiral Owl
+[4:349:5]
+Flottes et défenses : true 4M def
