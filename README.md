@@ -2,10 +2,10 @@
 Bot permettant d'automatiser la vaste majorité des actions du jeu [OGame](https://lobby.ogame.gameforge.com/fr_FR/)
 
 ## Objectifs
-Ce bot à été codé pendant la quarentaine afin de me divertir, de jouer automatiquement sur un jeu et d'amélirorer mon niveau en programmation.
+Ce bot à été codé pendant la quarantaine afin de me divertir, de jouer automatiquement sur un jeu et d'améliorer mon niveau en programmation.
 
 ## Utilisations
-Ce bot est principalement créer pour attaquer des banques d'inactifs. Cependant, il peut aussi : 
+Ce bot est principalement créé pour attaquer des banques d'inactifs. Cependant, il peut aussi : 
 
 -Attaquer des actifs
 
@@ -23,7 +23,7 @@ Ce bot est principalement créer pour attaquer des banques d'inactifs. Cependant
 
 -Acheter l'import/export
 
--Analyser, filter et conserver l'information des rapports d'espionnage.
+-Analyser, filtrer et conserver l'information des rapports d'espionnage.
 
 Celui qui voudra l'utiliser devra d'abord télécharger le logiciel [Super Macro](https://www.supermacro.fr/telechargement.php) afin de redéfinir chaque fichier MRC dans le dossier "ClassesActions". Ces fichiers contiennent uniquement l'endroit où le bot devra cliquer pour chaque micro action. Cet endroit dépend de la taille de l'écran, du navigateur et des réglages du jeu.
 
