@@ -1,5 +1,5 @@
 # Bot-OGame
-Bot permettant d'automatiser la vaste majorité des actions du jeu [OGame](https://lobby.ogame.gameforge.com/fr_FR/)
+Bot permettant d'automatiser la vaste majorité des actions du jeu [OGame](https://lobby.ogame.gameforge.com/fr_FR/).
 
 ## Objectifs
 Ce bot à été codé pendant la quarantaine afin de me divertir, de jouer automatiquement sur un jeu et d'améliorer mon niveau en programmation.
