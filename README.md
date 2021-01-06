@@ -4,6 +4,9 @@ Bot permettant d'automatiser la vaste majorité des actions du jeu [OGame](https
 ## Objectifs
 Ce bot à été codé pendant la quarantaine afin de me divertir, de jouer automatiquement sur un jeu et d'améliorer mon niveau en programmation.
 
+## Représentation
+![alt](https://github.com/TritzA/BotOGame/blob/master/image.jpg)
+
 ## Utilisations
 Ce bot est principalement créé pour attaquer des banques d'inactifs. Cependant, il peut aussi : 
 
